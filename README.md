@@ -19,7 +19,7 @@ The project provides students with an interactive platform to explore courses, l
 # Login Page
 ![Login Page1](s6.PNG)
 # Mobile View
-![Mobile View](s7.PNG,s8.PNG)
+![Mobile View](s7.PNG)
 
 #  Features
 
