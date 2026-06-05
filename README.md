@@ -6,6 +6,11 @@ The project provides students with an interactive platform to explore courses, l
 
 ---
 
+# Screenshots
+
+![Home Page1](s1.PNG)
+![Home Page2](s2.PNG)
+
 #  Features
 
 *  Responsive Home Page
@@ -25,19 +30,6 @@ The project provides students with an interactive platform to explore courses, l
 * HTML5
 * CSS3
 * Bootstrap 5
-
----
-
-
-
-#  UI Highlights
-
-* Glassmorphism Cards
-* Hover Animations
-* Transparent Navbar
-* Background Image Layout
-* Modern Typography
-* Premium Faculty Cards
 
 ---
 
