@@ -29,29 +29,7 @@ The project provides students with an interactive platform to explore courses, l
 
 ---
 
-#  Project Structure
 
-
-Online-Course-Registration-Portal/
-│
-├── index.html
-├── about.html
-├── courses.html
-├── contact.html
-├── register.html
-│
-├── styles/
-│   └── styles.css
-│
-├── images/
-│   ├── logo.jpg
-│   ├── course1.jpg
-│   └── ...
-│
-└── README.md
-
-
----
 
 #  UI Highlights
 
