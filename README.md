@@ -43,6 +43,6 @@ The project provides students with an interactive platform to explore courses, l
 
 #  Repository Link
 
-https://www.github.com/deekshtha-1701/Online-Course-Registration-Portal
+https://www.github.com/deekshitha-1701/Online-Course-Registration-Portal
 
 ---
