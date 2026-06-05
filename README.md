@@ -20,6 +20,12 @@ The project provides students with an interactive platform to explore courses, l
 
 ---
 
+#  Live Demo
+
+https://online-course-registration-portal.vercel.app/
+
+---
+
 #  Technologies Used
 
 * HTML5
