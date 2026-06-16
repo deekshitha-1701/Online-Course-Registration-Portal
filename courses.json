@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "title": "Web Development",
+    "duration": "3 Months",
+    "fee": 5000
+  },
+  {
+    "id": 2,
+    "title": "Database",
+    "duration": "1 Month",
+    "fee": 4000
+  },
+  {
+    "id": 3,
+    "title": "Mobile App Development",
+    "duration": "2 Months",
+    "fee": 6000
+  }
+]

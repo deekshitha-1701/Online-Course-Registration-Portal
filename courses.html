@@ -85,7 +85,27 @@
         </div>
       </div>
     </div>
+<script>
+  fetch("http://localhost:2000/courses")
+  .then(res => res.json())
+  .then(data => {
+      const container = document.querySelector(".row");
 
+      container.innerHTML = "";
+
+      data.forEach(course => {
+          container.innerHTML += `
+              <div class="col-md-4">
+                <div class="card p-3">
+                  <h5>${course.title}</h5>
+                  <p>Duration: ${course.duration}</p>
+                  <p>Fee: ₹${course.fee}</p>
+                </div>
+              </div>
+          `;
+      });
+  });
+</script>
     
 
   </div>
